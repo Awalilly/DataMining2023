@@ -1,4 +1,4 @@
-# DataMining2023
+# DataMining2023 - Autori: Valentina Barletta e Matteo Gallo
 Progetto di Data Mining 2023: classificazione di P300 per speller da segnale EEG per cinque diversi pazienti.
 
 Nel notebook "P300_data_exploration" i dati sono stati convertiti dal formato .mat al formato .json per una più facile lettura. 
